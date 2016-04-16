@@ -1,0 +1,10 @@
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\bin\Debug\CheckSTP.exe
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\bin\Debug\CheckSTP.pdb
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\ResolveAssemblyReference.cache
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\CheckSTP.Form1.resources
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\CheckSTP.Form2.resources
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\CheckSTP.Properties.Resources.resources
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\ResGen.read.1.tlog
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\ResGen.write.1.tlog
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\CheckSTP.exe
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Debug\CheckSTP.pdb

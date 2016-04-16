@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RuleSTD" targetNamespace="http://tempuri.org/RuleSTD.xsd" xmlns:mstns="http://tempuri.org/RuleSTD.xsd" xmlns="http://tempuri.org/RuleSTD.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RuleSTD" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RuleSTD" msprop:Generator_DataSetName="RuleSTD" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RuleSTD" msprop:Generator_UserTableName="RuleSTD" msprop:Generator_RowDeletedName="RuleSTDRowDeleted" msprop:Generator_RowChangedName="RuleSTDRowChanged" msprop:Generator_RowClassName="RuleSTDRow" msprop:Generator_RowChangingName="RuleSTDRowChanging" msprop:Generator_RowEvArgName="RuleSTDRowChangeEvent" msprop:Generator_RowEvHandlerName="RuleSTDRowChangeEventHandler" msprop:Generator_TableClassName="RuleSTDDataTable" msprop:Generator_TableVarName="tableRuleSTD" msprop:Generator_RowDeletingName="RuleSTDRowDeleting" msprop:Generator_TablePropName="_RuleSTD">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Key" msprop:Generator_UserColumnName="Key" msprop:Generator_ColumnVarNameInTable="columnKey" msprop:Generator_ColumnPropNameInRow="Key" msprop:Generator_ColumnPropNameInTable="KeyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Value" msprop:Generator_UserColumnName="Value" msprop:Generator_ColumnVarNameInTable="columnValue" msprop:Generator_ColumnPropNameInRow="Value" msprop:Generator_ColumnPropNameInTable="ValueColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Comment" msprop:Generator_UserColumnName="Comment" msprop:Generator_ColumnVarNameInTable="columnComment" msprop:Generator_ColumnPropNameInRow="Comment" msprop:Generator_ColumnPropNameInTable="CommentColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

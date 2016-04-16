@@ -1,0 +1,26 @@
+D:\Check_Standard_STP\Check_Standard_STP\CheckSTP.exe
+D:\Check_Standard_STP\Check_Standard_STP\CheckSTP.pdb
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\ResolveAssemblyReference.cache
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.Form1.resources
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.Form2.resources
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.Properties.Resources.resources
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\ResGen.read.1.tlog
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\ResGen.write.1.tlog
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.exe
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.pdb
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\bin\Release\CheckSTP.exe
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\bin\Release\CheckSTP.pdb
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\bin\Release\CheckSTP.exe
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\bin\Release\CheckSTP.pdb
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\ResolveAssemblyReference.cache
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.Form1.resources
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.Form2.resources
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.Properties.Resources.resources
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\ResGen.read.1.tlog
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\ResGen.write.1.tlog
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.exe
+D:\Tool UTC\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\CheckSTP.pdb
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Check_Standard_STP\src\CheckSTP\CheckSTP\obj\Release\GenerateResource-ResGen.write.1.tlog
